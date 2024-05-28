@@ -122,3 +122,9 @@ print(not True)      # False - Negation, the not operator turns true to false
 print(not False)     # True
 print(not not True)  # True
 print(not not False) # False
+
+
+while True:
+    age = input("Input your age as an integer:\n")
+    if (type(age) == "<class 'int'>"):
+        break

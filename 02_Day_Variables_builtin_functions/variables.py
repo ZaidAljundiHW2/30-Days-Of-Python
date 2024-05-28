@@ -38,3 +38,5 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+
+#Day 2: 30 days of python programming
